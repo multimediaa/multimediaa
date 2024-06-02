@@ -18,10 +18,6 @@ Selamat datang di halaman GitHub resmi kami! 🌟
 ### Kontak
 Kami terbuka untuk kolaborasi dan saran. Jangan ragu untuk menghubungi kami melalui media sosial atau email kami di [multimediaa.info@gmail.com](mailto:multimediaa.info@gmail.com).
 
-### Alamat Sekolah
-SMAN 1 Baturraden<br>
-📍 JL. Raya Rempoah Timur No. 786 Baturraden, Jawa Tengah
-
 ---
 
 Terima kasih telah mengunjungi halaman kami! Jangan lupa untuk mengikuti kami di media sosial untuk update terbaru. 😊
