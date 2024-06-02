@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
+  <img alt="Logo Multimedia" src="Assets/img/load.GIF" width="135px" height="135px">
+</div>
 
-<!--
-**multimediaa/multimediaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">MULTIMEDIA SMAN 1 BATURRADEN</h2>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selamat datang di halaman GitHub resmi kami! 🌟
+
+### Proyek Terbaru
+- **Website**: [multimediaa.github.io](https://multimediaa.github.io)
+
+### Media Sosial
+- Instagram: [@multimedia_smabara](https://www.instagram.com/multimedia_smabara) 📸
+- YouTube: [Multimedia Smabara](https://www.youtube.com/@multimediasmabara7785) 🎥
+
+### Kontak
+Kami terbuka untuk kolaborasi dan saran. Jangan ragu untuk menghubungi kami melalui media sosial atau email kami di [multimediaa.info@gmail.com](mailto:multimediaa.info@gmail.com).
+
+### Alamat Sekolah
+SMAN 1 Baturraden<br>
+📍 JL. Raya Rempoah Timur No. 786 Baturraden, Jawa Tengah
+
+---
+
+Terima kasih telah mengunjungi halaman kami! Jangan lupa untuk mengikuti kami di media sosial untuk update terbaru. 😊
+
+---
+
+<p align="center">
+© 2024 Multimedia SMAN 1 Baturraden. All Rights Reserved.
+</p>
+
